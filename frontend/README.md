@@ -38,22 +38,7 @@ A full-stack MERN application that intelligently matches resumes to job roles ba
    - Matching jobs and match percentages
 
 ---
-
-📂 Folder Structure
-mern-resume-matcher/
-├── backend/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── utils/
-├── frontend/
-│ ├── public/
-│ └── src/
-│ ├── ResumeUpload.jsx
-│ ├── ResumeMatcher.jsx
-│ └── ...
-└── README.md
-
+STEPS:
 1.Backend Setup
 bash
 Copy
