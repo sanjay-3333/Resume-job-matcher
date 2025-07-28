@@ -1,0 +1,45 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+input[type="file"] {
+  margin-bottom: 1rem;
+}
+
+.results {
+  margin-top: 2rem;
+}
+
+.job-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #f9f9f9;
+}
+
+.progress-bar {
+  background: #e0e0e0;
+  height: 10px;
+  border-radius: 5px;
+  margin: 0.5rem 0;
+  width: 100%;
+}
+
+.progress {
+  height: 10px;
+  background-color: #4caf50;
+  border-radius: 5px;
+}
+
+.location {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.error {
+  color: red;
+}
