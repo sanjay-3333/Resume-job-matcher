@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const Job = require('../models/Job');
 
-mongoose.connect('mongodb://127.0.0.1:27017/resumeMatcher', {
+mongoose.connect('mongodb+srv://sanjays2021hresumeadmin:Ssss33339@resumecluster.rytartb.mongodb.net/resumeMatcher?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 }).then(async () => {
